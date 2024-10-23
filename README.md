@@ -2,9 +2,6 @@
 
 This guide will help you edit and deploy your YouTube clone project, including both the backend and frontend components.
 
-bash
-hello
-
 ## Prerequisites
 
 1. **Node.js**: Install from [Node.js official website](https://nodejs.org/).
