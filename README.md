@@ -12,10 +12,10 @@ This guide will help you edit and deploy your YouTube clone project, including b
 
 ## Step 1: Clone the Repository
 
-Clone your project repository:
+Clone this project repository:
 ```
 bash
-git clone <your-repository-url>
+git clone https://github.com/MeherMankar/YouTube-clone
 cd youtube-clone
 ```
 
