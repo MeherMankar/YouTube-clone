@@ -173,5 +173,5 @@ const response = await axios.post('<your-heroku-backend-url>/api/users/login', f
 
 ## Conclusion
 
-You now have a fully functional YouTube clone deployed with a backend on Heroku and a frontend on Netlify! Make sure to continually monitor for any issues and update your code as necessary.
+You now have a fully functional YouTube clone deployed with a backend on Heroku and a frontend on Netlify! Make sure to continually monitor for any issues and help to update code as necessary.
 
