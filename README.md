@@ -1,5 +1,7 @@
 # YouTube Clone Deployment Guide
 
+## There are bugs, errors and glitches in this repo.
+
 This guide will help you edit and deploy your YouTube clone project, including both the backend and frontend components.
 
 ## Prerequisites
